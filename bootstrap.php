@@ -9,7 +9,7 @@
  * @wordpress-plugin
  * Plugin Name: Git Contributing
  * Plugin URI:  https://github.com/KnowTheCode/git-contributing
- * Description: Git Contributing - an awesome collaborative project to teach you the contributor workflow.
+ * Description: An awesome collaborative project to teach you the contributor workflow.
  * Version:     1.0.0
  * Author:      Git Contributing Team
  * Author URI:  https://KnowTheCode.io
